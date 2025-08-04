@@ -7,15 +7,16 @@ This project analyzes a Portuguese bank’s direct marketing campaign aimed at p
 	•	Target Variable: y (term deposit subscription: yes/no)
 	•	Features: Client age, job, marital status, education, contact type, call duration, balance, etc.
 
-	  Project Objectives
+   Project Objectives
 	•	Identify key factors influencing subscription decisions
 	•	Segment customer profiles based on response behavior
 	•	Evaluate machine learning models for better targeting
 	•	Recommend actionable strategies to optimize marketing performance
 
-			Key Findings
+   Key Findings
 	•	Severe class imbalance: Only 11.7% of clients subscribed
-	*Top predictive features:
+
+   Top predictive features:
 	•	Call duration (strongest predictor)
 	•	Account balance
 	•	Client’s age
